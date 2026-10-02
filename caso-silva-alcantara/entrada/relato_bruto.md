@@ -1,0 +1,7 @@
+# Relato Bruto do Cliente (Fictício)
+
+Data do Atendimento: 15/07/2026
+Atendente: Dra. Mariana Costa
+
+Relato da cliente Helena Silva:
+"Sou casada com Marcos Alcantara desde outubro de 2012 em comunhão parcial de bens. Temos dois filhos: Lucas (10 anos) e Sofia (6 anos). A Sofia tem dermatite atópica severa e o tratamento é bem caro. O Marcos é diretor em uma multinacional e ganha R$ 28.000,00 líquidos. Eu sou arquiteta autônoma e tiro em média R$ 5.000,00 por mês. Ele saiu de casa no dia 10/07/2026 e quer guarda compartilhada alternando semana a semana, mas viaja direto a trabalho, não tem como dar conta. Ele quer me dar R$ 6.000,00 de pensão para os dois, só que as despesas fixas das crianças dão R$ 9.000,00 por mês. Eu preciso de R$ 11.000,00 para manter o padrão das crianças e cobrir o tratamento da Sofia. Quanto à partilha: temos uma casa de R$ 900 mil com financiamento de R$ 250 mil pra pagar. Eu quero ficar na casa com as crianças. Ele quer vender logo. Temos um Sedan 2022 quitado (R$ 85 mil) comigo, um SUV 2024 financiado com R$ 60 mil já pagos com ele, R$ 120 mil na conta conjunta, só que ele tirou R$ 50 mil da conta 3 dias antes de sair de casa sem me avisar! E para piorar, ele quer me cobrar a metade do valor do meu escritório de arquitetura (empresa individual), sendo que sou só eu que trabalho lá."
